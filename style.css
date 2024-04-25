@@ -1,3 +1,19 @@
+@media screen and (max-width: 900px) {
+
+	.d_h2 {
+		font-size: 25px;
+	}
+	.d_img {
+		width: 320px;
+		height: 175px;
+	}
+	.d_img1 {
+		width: 340px;
+		height: 200px;
+	}
+}
+
+
 * {
 	padding: 0;
 	margin: 0;
