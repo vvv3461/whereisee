@@ -11,7 +11,271 @@
 		width: 340px;
 		height: 200px;
 	}
+
+
+	.game1_1 {
+	position: absolute;
+	bottom: 215px;
+	left: 60px;
+	background: rgb(77, 77, 77);
+	width: 20px;
+	height: 35px;
+	border-radius: 100px;
+	}
+	.game1_2 {
+		position: absolute;
+		bottom: 260px;
+		left: 60px;
+		background: rgb(77, 77, 77);
+		width: 20px;
+		height: 35px;
+		border-radius: 100px;
+	}
+	.game1_3 {
+		position: absolute;
+		bottom: 215px;
+		left: 25px;
+		background: rgb(77, 77, 77);
+		width: 35px;
+		height: 20px;
+		border-radius: 100px;
+	}
+	.game1_4 {
+		position: absolute;
+		bottom: 215px;
+		left: 80px;
+		background: rgb(77, 77, 77);
+		width: 35px;
+		height: 20px;
+		border-radius: 100px;
+	}
+
+	.game1_5 {
+		position: absolute;
+		bottom: 190px;
+		left: 293px;
+		background: rgb(77, 77, 77);
+		width: 20px;
+		height: 20px;
+		border-radius: 100px;
+	}
+	.game1_6 {
+		position: absolute;
+		bottom: 240px;
+		left: 293px;
+		background: rgb(77, 77, 77);
+		width: 20px;
+		height: 20px;
+		border-radius: 100px;
+	}
+	.game1_7 {
+		position: absolute;
+		bottom: 215px;
+		left: 318px;
+		background: rgb(77, 77, 77);
+		width: 20px;
+		height: 20px;
+		border-radius: 100px;
+	}
+	.game1_8 {
+		position: absolute;
+		bottom: 215px;
+		left: 268px;
+		background: rgb(77, 77, 77);
+		width: 20px;
+		height: 20px;
+		border-radius: 100px;
+	}
+
+
+	.game1 {
+		position: absolute;
+		bottom: 30px;
+		left: 20px;
+		background: rgb(215, 215, 215);
+		width: 100px;
+		height: 250px;
+		border-radius: 100px;
+	}
+
+
+
+	.game2 {
+		position: absolute;
+		bottom: 130px;
+		left: 80px;
+		background: rgb(215, 215, 215);
+		width: 200px;
+		height: 120px;
+	}
+	.game2_1 {
+		position: absolute;
+		bottom: 180px;
+		left: 105px;
+		background: rgb(108, 137, 152);
+		width: 160px;
+		height: 60px;
+		border-radius: 20px;
+	}
+
+	.game3 {
+		position: absolute;
+		bottom: 30px;
+		left: 250px;
+		background: rgb(215, 215, 215);
+		width: 100px;
+		height: 250px;
+		border-radius: 100px;
+	}
+
+	.game4 {
+		position: absolute;
+		bottom: 100px;
+		left: 80px;
+		background: rgb(215, 215, 215);
+		width: 70px;
+		height: 70px;
+		border-radius: 100px;
+	}
+
+	.game5 {
+		position: absolute;
+		bottom: 100px;
+		left: 220px;
+		background: rgb(215, 215, 215);
+		width: 70px;
+		height: 70px;
+		border-radius: 100px;
+	}
+
+	.game4_1 {
+		position: absolute;
+		bottom: 110px;
+		left: 90px;
+		background: rgb(77, 77, 77);
+		width: 50px;
+		height: 50px;
+		border-radius: 100px;
+	}
+
+	.game5_1 {
+		position: absolute;
+		bottom: 110px;
+		left: 230px;
+		background: rgb(77, 77, 77);
+		width: 50px;
+		height: 50px;
+		border-radius: 100px;
+	}
+
+
+
+	.design_back {
+		position: absolute;
+		bottom: 323px;
+		left: 23px;
+		border: 2px solid black;
+		width: 510px;
+		height: 330px;
+	}
+	.design1 {
+		position: absolute;
+		bottom: 360px;
+		left: 30px;
+		background: linear-gradient(180deg, lightblue, royalblue);
+		width: 500px;
+		height: 290px;
+	}
+
+	.design1_sun {
+		position: absolute;
+		bottom: 580px;
+		left: 450px;
+		background: rgb(255, 214, 111);
+		width: 60px;
+		height: 60px;
+		border-radius: 100px;
+	}
+
+	.design_cloud1 {
+		position: absolute;
+		bottom: 600px;
+		left: 210px;
+		background: white;
+		width: 100px;
+		height: 30px;
+		border-radius: 100px;
+	}
+	.design_cloud2 {
+		position: absolute;
+		bottom: 560px;
+		left: 180px;
+		background: white;
+		width: 120px;
+		height: 50px;
+		border-radius: 100px;
+	}
+	.design_cloud3 {
+		position: absolute;
+		bottom: 560px;
+		left: 260px;
+		background: white;
+		width: 100px;
+		height: 30px;
+		border-radius: 100px;
+	}
+	.design_cloud4 {
+		position: absolute;
+		bottom: 550px;
+		left: 130px;
+		background: white;
+		width: 140px;
+		height: 30px;
+		border-radius: 100px;
+	}
+
+	.design_sea {
+		position: absolute;
+		bottom: 330px;
+		left: 30px;
+		background: linear-gradient(darkblue, mediumblue);
+		width: 500px;
+		height: 100px;
+	}
+
+	.design4 {
+		position: absolute;
+		bottom: 400px;
+		left: 350px;
+		background: linear-gradient(green, darkkhaki);
+		width: 140px;
+		height: 100px;
+		border-radius: 30px;
+	}
+	.design4_1 {
+		position: absolute;
+		bottom: 360px;
+		left: 300px;
+		background: linear-gradient(green, darkkhaki);
+		width: 100px;
+		height: 100px;
+		border-radius: 20px;
+	}
+	.design4_2 {
+		position: absolute;
+		bottom: 380px;
+		left: 50px;
+		background: linear-gradient(darkgreen, darkkhaki);
+		width: 160px;
+		height: 100px;
+		border-radius: 30px;
+	}
 }
+
+
+
+
+
 
 
 * {
